@@ -1,0 +1,2 @@
+# Krypt-Lock
+Encryption Script
